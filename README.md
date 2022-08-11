@@ -42,7 +42,7 @@ or alternatively you can copy and paste the commands in
 Give a :star:️ if you like this project!
 
 ## Acknowledgments
-- Many thanks to Microverse community and all those who have contributed to my progress.
+- Many thanks to Microverse community and all those who have contributed to our progress.
 - 🎩Hat tip to anyone whose code was used
 - Heartfelt appreciation to all those who provided much needed inspiration.
 
