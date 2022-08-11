@@ -1,6 +1,7 @@
 class Solver
   def factorial(num)
     raise Exception, 'Invalid number' if num.negative?
+
     (2..num).reduce(1, :*)
   end
 
